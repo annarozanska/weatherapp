@@ -10,7 +10,8 @@ body {
     align-items: center;
     height: 100vh;
     font-family: 'Montserrat', sans-serif;
-    color: rgb(255, 255, 255);
+    /* color: rgb(255, 255, 255); */
+    background: url(./img/forest.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
